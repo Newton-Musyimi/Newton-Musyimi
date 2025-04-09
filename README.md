@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newtonmusyimi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Newton-Musyimi)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newtonmusyimi@gmail.com)
 
@@ -41,60 +41,51 @@ class Developer extends Model
       <div align="center">
         <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="100" alt="Project"/></a>
         <p>
+<!--
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
           </a>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/DEMO-9cf?style=for-the-badge&logo=firebase&logoColor=black"/>
           </a>
+-->
         </p>
         <p><strong>Laravel, Livewire, Filament, TailwindCSS</strong> — Restaurant and hospitality management system for tracking stock, sales, reconciliations, and staff performance metrics.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Tano Tena</h3>
+      <h3 align="center">Daily Reconciliation System</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/885c1ef3e147779c6322b02add8b3445f52e7174/topics/php/php.png" width="100" alt="Project"/></a>
+        <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/postgresql/postgresql.png" width="100" alt="Project"/></a>
         <p>
+<!--
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
           </a>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/DEMO-9cf?style=for-the-badge&logo=firebase&logoColor=black"/>
           </a>
+-->
         </p>
-        <p><strong>Multi-tenant SaaS, Spatie/laravel-multitenancy, Soulbscription</strong> — Platform for politicians to manage campaigns, subscriptions, and volunteer coordination.</p>
+        <p><strong>Laravel, REST APIs, PostgreSQL</strong> — API-driven cash tracking platform for cashiers across locations, handling multiple payment methods including M-Pesa.</p>
       </div>
     </td>
   </tr>
   
   <tr>
     <td width="50%">
-      <h3 align="center">Daily Reconciliation System</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/postgresql/postgresql.png" width="100" alt="Project"/></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-9cf?style=for-the-badge&logo=firebase&logoColor=black"/>
-          </a>
-        </p>
-        <p><strong>Laravel, REST APIs, PostgreSQL</strong> — API-driven cash tracking platform for cashiers across locations, handling multiple payment methods including M-Pesa.</p>
-      </div>
-    </td>
-    <td width="50%">
       <h3 align="center">Service Area Manager</h3>
       <div align="center">
         <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="100" alt="Project"/></a>
         <p>
+<!--
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
           </a>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/DEMO-9cf?style=for-the-badge&logo=firebase&logoColor=black"/>
           </a>
+-->
         </p>
         <p><strong>Laravel, Filament, Livewire</strong> — Parts inventory and job card tracking system for a car wash and auto service center.</p>
       </div>
@@ -138,9 +129,8 @@ class Developer extends Model
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Newton-Musyimi&show_icons=true&include_all_commits=true&count_private=true&hide=stars&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=151515,0a0c10,0d1117&border_radius=10&border_color=30363d&custom_title=My%20GitHub%20Journey"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Newton-Musyimi&show_icons=true&theme=radical" alt="Newton's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Newton-Musyimi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Newton-Musyimi&show_icons=true&custom_title=My%20GitHub%20Journey&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Newton-Musyimi&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ## 🧠 Currently Learning
@@ -160,7 +150,7 @@ const currentFocus = {
 
 <p>I'm always open to interesting conversations and collaboration opportunities.</p>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newtonmusyimi/)
 [![Email](https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newtonmusyimi@gmail.com)
 
 <p align="center">
