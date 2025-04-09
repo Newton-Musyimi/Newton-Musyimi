@@ -138,6 +138,7 @@ class Developer extends Model
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Newton-Musyimi&show_icons=true&include_all_commits=true&count_private=true&hide=stars&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=151515,0a0c10,0d1117&border_radius=10&border_color=30363d&custom_title=My%20GitHub%20Journey"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Newton-Musyimi&show_icons=true&theme=radical" alt="Newton's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Newton-Musyimi&layout=compact&theme=radical" alt="Top Languages" />
 </div>
